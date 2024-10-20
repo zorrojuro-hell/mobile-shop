@@ -1,0 +1,38 @@
+[
+        {
+        "name": "SAMSUNG",
+        "image":"https://images.samsung.com/is/image/samsung/assets/in/offer/fab-grab-fest/b2c-S24-Ultra-330x220-290924.jpg?$330_N_JPG$,",
+        "description": "pick your Samsung Galaxy mobiles",
+        "link": "#"
+
+    },
+    {
+        "name": "iphone",
+        "image":"https://media.wired.com/photos/6500ad57fe61eb702d721b58/4:3/w_330,h_220,c_limit/Apple-iPhone-15-Pro-Hero-Gear.jpg",
+        "description":"pick your Iphone mobiles",
+        "link":"#"
+    },
+
+    {
+        "name":"Google Pixel",
+        "image":"https://lh3.googleusercontent.com/1Pdm3gR8T0BQUnlEaH_6sUp0UcyFWKhNopBphkXkqyblgGvws_WweuKHZiKLgm0FkV99DjCUw_3LLDgtREIC4iwoZRJgNPD20go=rw-e365-w3000",
+        "description":"pick your Google Pixel mobiles",
+        "link":"#"
+    },
+
+    {
+        "name":"Redmi",
+        "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTf58LHaetUEMFKq6_9CsQf2kjdRsmoujcBA6Ml1Xh852EGQxewEDkMwjX86727sqeWUF02k5n_1zEfAyH6TdSUQ-UvJI0FiuoVF1UpR5aXVPYh8hSZi1fj31HJSoVTDpBBLiIHIQ&usqp=CAc",
+        "description":"pick your Xiami mobiles",
+        "link":"#"
+    },
+
+    {
+        "name": "Oppo",
+        "image":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTOJC6zrah2sqBEh9iYbCDwSfE30fJ1r_y_zM4Q1hM01_oswRDGQizf6GPEluCPOho0z5GFt3gQDMuhM1qwD6ZXbpCvObNyfTKSlo23_Dzd4V3-O_RPXNRL3mNj6EFzkJ3BwxL_Zw&usqp=CAc",
+        "description":"pick your Oppo mobiles",
+        "link":"#"
+    }
+
+
+]
